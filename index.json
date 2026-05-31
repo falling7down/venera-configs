@@ -27,7 +27,7 @@
         "name": "nhentai",
         "fileName": "nhentai.js",
         "key": "nhentai",
-        "version": "1.0.9"
+        "version": "1.0.11"
     },
     {
         "name": "紳士漫畫",
@@ -55,7 +55,7 @@
         "key": "manga_dex",
         "version": "1.1.0",
         "description": "Account feature is not supported yet."
-    },
+    }，
     {
         "name": "爱看漫",
         "fileName": "ikmmh.js",
@@ -163,7 +163,7 @@
         "fileName": "hcomic.js",
         "key": "hcomic",
         "version": "1.0.0"
-    },
+    }，
     {
         "name": "jcomic.net",
         "fileName": "jcomic.js",
@@ -173,7 +173,7 @@
     {
         "name": "热辣漫画",
         "fileName": "hot_manga.js",
-        "key": "hot_manga",
+        "key": "hot_manga"，
         "version": "1.0.0"
 	},
     {
